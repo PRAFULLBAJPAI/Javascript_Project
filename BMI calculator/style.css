@@ -1,0 +1,72 @@
+h1{
+    text-align: center;
+    color: rgb(204, 0, 255);
+    font-size: 40px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: underline;
+    margin: 30px 30px;
+}
+body{
+    background: gray;
+}
+p{
+ font-size: 30px;
+ margin-left: 60px;
+ margin-top: 20px;
+
+}
+p input{
+    font-size: 30px;
+    margin-left: 10px;
+    padding-left: 20px;
+    
+}
+button{
+    background-color: rgb(19, 180, 244);
+    font-size: 30px;
+    border: 1px solid green;
+    border-radius: 20px;
+    margin-left: 300px;
+    width: 20%;
+    margin-top: 40px;
+    padding: 10px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+h1:hover{
+    cursor: pointer;
+    color: black;
+
+}
+input:hover{
+    cursor: text;
+}
+button:hover{
+    cursor: pointer;
+    background: rgb(101, 216, 90);
+    color: black;
+
+
+}
+.weight_guild h3{
+    text-align: center;
+    text-shadow: 0 4px 5px #65d85a;
+    text-decoration-line: underline;
+    -moz-text-decoration-line: underline;
+    font-size: 30px;
+}
+.results{
+    text-align: center;
+    background: #65d85a;
+    margin-top: 30px;
+    font-size: 40px;
+    border: 1px solid black;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
